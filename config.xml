@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.phonegap.hypnosquirrel" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>HypnoSquirrel</name>
     <description>
-        Hypno-Squirrel example using PhoneGap.
+        HypnoSquirrel example using PhoneGap.
     </description>
     <author email="e.de.quincey@keele.ac.uk" href="http://www.dreddequincey.com">
         Dr Ed de Quincey
