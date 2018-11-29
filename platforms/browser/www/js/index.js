@@ -3,8 +3,7 @@ var int;
 
 function rotate(){
 	rotation = rotation + 10;
-	document.getElementById("squirrel").style.transform = "rotate("+rotation+"deg)";;
-	
+	document.getElementById("squirrel").style.transform = "rotate("+rotation+"deg)";
 }
 
 function start(){
